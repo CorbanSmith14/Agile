@@ -1,0 +1,5 @@
+C:\Users\corba\OneDrive\Desktop\Agile\obj\Debug\net6.0\dropbox02.csproj.AssemblyReference.cache
+C:\Users\corba\OneDrive\Desktop\Agile\obj\Debug\net6.0\dropbox02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corba\OneDrive\Desktop\Agile\obj\Debug\net6.0\dropbox02.AssemblyInfoInputs.cache
+C:\Users\corba\OneDrive\Desktop\Agile\obj\Debug\net6.0\dropbox02.AssemblyInfo.cs
+C:\Users\corba\OneDrive\Desktop\Agile\obj\Debug\net6.0\dropbox02.csproj.CoreCompileInputs.cache
