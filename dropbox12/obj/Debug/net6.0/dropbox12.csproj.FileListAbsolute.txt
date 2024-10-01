@@ -1,0 +1,15 @@
+C:\Users\corba\OneDrive\Desktop\Agile\dropbox12\bin\Debug\net6.0\dropbox12.exe
+C:\Users\corba\OneDrive\Desktop\Agile\dropbox12\bin\Debug\net6.0\dropbox12.deps.json
+C:\Users\corba\OneDrive\Desktop\Agile\dropbox12\bin\Debug\net6.0\dropbox12.runtimeconfig.json
+C:\Users\corba\OneDrive\Desktop\Agile\dropbox12\bin\Debug\net6.0\dropbox12.dll
+C:\Users\corba\OneDrive\Desktop\Agile\dropbox12\bin\Debug\net6.0\dropbox12.pdb
+C:\Users\corba\OneDrive\Desktop\Agile\dropbox12\obj\Debug\net6.0\dropbox12.csproj.AssemblyReference.cache
+C:\Users\corba\OneDrive\Desktop\Agile\dropbox12\obj\Debug\net6.0\dropbox12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corba\OneDrive\Desktop\Agile\dropbox12\obj\Debug\net6.0\dropbox12.AssemblyInfoInputs.cache
+C:\Users\corba\OneDrive\Desktop\Agile\dropbox12\obj\Debug\net6.0\dropbox12.AssemblyInfo.cs
+C:\Users\corba\OneDrive\Desktop\Agile\dropbox12\obj\Debug\net6.0\dropbox12.csproj.CoreCompileInputs.cache
+C:\Users\corba\OneDrive\Desktop\Agile\dropbox12\obj\Debug\net6.0\dropbox12.dll
+C:\Users\corba\OneDrive\Desktop\Agile\dropbox12\obj\Debug\net6.0\refint\dropbox12.dll
+C:\Users\corba\OneDrive\Desktop\Agile\dropbox12\obj\Debug\net6.0\dropbox12.pdb
+C:\Users\corba\OneDrive\Desktop\Agile\dropbox12\obj\Debug\net6.0\dropbox12.genruntimeconfig.cache
+C:\Users\corba\OneDrive\Desktop\Agile\dropbox12\obj\Debug\net6.0\ref\dropbox12.dll
