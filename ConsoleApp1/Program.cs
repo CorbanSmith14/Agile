@@ -1,0 +1,17 @@
+﻿//Input
+Console.WriteLine("enter change amount");
+//Back end
+decimal changeAmount     = decimal.Parse(Console.ReadLine());
+int changeInCents = (int)(changeAmount * 100);
+int numberOfQuaters = changeInCents / 25;
+int remainderAfterQuaters  = changeInCents % 25;
+int numberOfDimes = remainderAfterQuaters / 10;
+int remainderAfterDimes = remainderAfterQuaters % 10;
+int numberOfNickels = remainderAfterDimes / 5;
+int remainderAfterNickels = remainderAfterDimes % 5;
+int numberOfPennies = remainderAfterNickels;
+//Display
+Console.WriteLine($"Number of Quaters:{numberOfQuaters}");
+Console.WriteLine($"Number of Dimes: {numberOfDimes}");
+Console.WriteLine($"Number of Nickels:{numberOfNickels}");
+Console.WriteLine($"Number of Pennies: {numberOfPennies}");
