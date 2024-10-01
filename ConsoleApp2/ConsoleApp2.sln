@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dropbox04", "ConsoleApp2\dropbox04.csproj", "{8AC022E7-98E0-4945-9B7D-8E96D96EE368}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AC022E7-98E0-4945-9B7D-8E96D96EE368}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AC022E7-98E0-4945-9B7D-8E96D96EE368}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AC022E7-98E0-4945-9B7D-8E96D96EE368}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AC022E7-98E0-4945-9B7D-8E96D96EE368}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B06CF36-3626-41F3-8932-CCA9743FC9F0}
+	EndGlobalSection
+EndGlobal
